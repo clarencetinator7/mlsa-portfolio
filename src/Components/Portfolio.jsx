@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Go Getter",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A simple to-do list web app that allows users to create, read, update, and delete tasks. It is built using React",
+    url: "https://github.com/clarencetinator7/go-getter",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Lakbay Ticket Management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A project for our OOP with Java Programming class. It is a ticket management system for a bus transportation agency.",
+    url: "https://github.com/clarencetinator7/LakbayTicketManagementSystem",
   },
   {
-    title: "My Resume Site",
+    title: "Snackwise Ordering System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A project for our System Analysis and Design class. It is a web app for a small food business that allows customers to order online.",
+    url: "https://github.com/clarencetinator7/snackwise-ordering-system",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Java Master",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A project for our Game Development class. It is a simple 2d platformer game that teaches the basics of Java programming. It is built with Unity and C#.",
+    url: "https://github.com/clarencetinator7/java-master",
   },
 ];
 
